@@ -1,0 +1,36 @@
+[{
+  "title": "451 градус по фарангейту",
+  "ISBN": "1-1-1-1-1-1",
+  "year": 1953,
+  "number": "",
+  "publisher": "Ballantine Books",  
+  "literate": "Book",
+  "author": "Рэй Брэдбери"
+},
+{
+  "title": "1984",
+  "ISBN": "1-1-1-1-1-2",
+  "year": 1948,
+  "number": "1",
+  "publisher": "Секер та Ворберг",  
+  "literate": "Book",
+  "author": "Джордж Оруэлл"
+},
+{
+  "title": "Какая-то газета",
+  "ISBN": "1-1-1-1-1-3",
+  "year": 2005,
+  "number": "1",
+  "publisher": "Издательство",  
+  "literate": "Newspaper",
+  "author": "Газет Журнальный"
+},
+{
+  "title": "Какой-то журнал",
+  "ISBN": "1-1-1-1-1-4",
+  "year": 2006,
+  "number": "1",
+  "publisher": "Издательство",  
+  "literate": "Journal",
+  "author": "Газет Журнальный"
+}]
